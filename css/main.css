@@ -52,12 +52,15 @@ a {
 .recipe-day {
   background-color: red;
   color: white;
+  border-radius: 11px;
+  margin: 15px 69px;
 }
 
 .recette-granola-name {
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 24px;
   line-height: 1.2;
+  margin: 15px;
 }
 
 h2 {
@@ -77,6 +80,7 @@ p {
   font-family: 'Libre Franklin', sans-serif;
   font-size: 16px;
   font-weight: 700;
+  margin: 15px;
 }
 
 h3 {
@@ -84,22 +88,32 @@ h3 {
   font-size: 20px;
   line-height: 1.2;
   font-weight: 400;
+  padding: 15px;
 }
 
 main {
-  background-color: rgb(208, 206, 206);
-  /* attention pas la bonne couleur */
+  background-color: #ebede7;
+  padding: 15px;
 }
 
 div {
   background-color: white;
-  margin: 15px;
+  margin-top: 15px;
 }
 
 footer {
   background-color: black;
   color: white;
   text-align: left;
+  padding: 30px 15px;
+}
+
+nav {
+  margin: 15px 0px;
+}
+
+hr {
+  background-color: black;
 }
 
 
