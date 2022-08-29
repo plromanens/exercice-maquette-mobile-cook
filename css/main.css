@@ -49,6 +49,11 @@ a {
   font-size: 16px;
 }
 
+.recipe-day {
+  background-color: red;
+  color: white;
+}
+
 .recette-granola-name {
   font-family: 'Sorts Mill Goudy', serif;
   font-size: 24px;
@@ -80,4 +85,21 @@ h3 {
   line-height: 1.2;
   font-weight: 400;
 }
+
+main {
+  background-color: rgb(208, 206, 206);
+  /* attention pas la bonne couleur */
+}
+
+div {
+  background-color: white;
+  margin: 15px;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: left;
+}
+
 
