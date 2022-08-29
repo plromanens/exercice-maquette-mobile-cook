@@ -26,6 +26,7 @@ body {
 
   font-size: 1rem;
   line-height: 1.5rem;
+  text-align: center;
 }
 
 a {
@@ -42,3 +43,41 @@ video {
 /* ====================================
 // base rules
 // ==================================== */
+
+a {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 16px;
+}
+
+.recette-granola-name {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 24px;
+  line-height: 1.2;
+}
+
+h2 {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 20px;
+  font-weight:700;
+  line-height:1.2;
+}
+
+.slogan {
+  font-family: 'Sorts Mill Goudy', serif;
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+p {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+h3 {
+  font-family: 'Libre Franklin';
+  font-size: 20px;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
